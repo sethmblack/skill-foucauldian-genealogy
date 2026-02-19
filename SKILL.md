@@ -3,8 +3,8 @@ name: foucauldian-genealogy
 description: Trace the historical emergence of institutions, practices, and concepts to reveal their contingent origins in power, struggle, and accident. Shows that what appears natural could be otherwise.
 license: MIT
 metadata:
-  version: 1.0.4030
   author: sethmblack
+  version: 1.0.4031
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
